@@ -9,3 +9,6 @@ regex = "1"
 
 [[bin]]
 name = "day01"
+
+[[bin]]
+name = "day02"
